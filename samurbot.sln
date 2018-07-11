@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "samurbot", "samurbot\samurbot.csproj", "{BD56CCC4-D8DC-49B2-9A33-BCEA54583794}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "samurbot.DAL", "samurbot.DAL\samurbot.DAL.csproj", "{7E0DC4D3-CA72-46AD-9E75-EF1AF2A9545B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "samurbot.Utils", "samurbot.Utils\samurbot.Utils.csproj", "{4932AD95-AC45-4CC6-9FAE-AD1030BD2F11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{BD56CCC4-D8DC-49B2-9A33-BCEA54583794}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD56CCC4-D8DC-49B2-9A33-BCEA54583794}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD56CCC4-D8DC-49B2-9A33-BCEA54583794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E0DC4D3-CA72-46AD-9E75-EF1AF2A9545B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0DC4D3-CA72-46AD-9E75-EF1AF2A9545B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0DC4D3-CA72-46AD-9E75-EF1AF2A9545B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0DC4D3-CA72-46AD-9E75-EF1AF2A9545B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4932AD95-AC45-4CC6-9FAE-AD1030BD2F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4932AD95-AC45-4CC6-9FAE-AD1030BD2F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4932AD95-AC45-4CC6-9FAE-AD1030BD2F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4932AD95-AC45-4CC6-9FAE-AD1030BD2F11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
